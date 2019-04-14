@@ -12,6 +12,11 @@ cmd + shift + o (or) shift+ shift | file 찾기
 ctrl + o | 상위 클래스 override
 cmd + , | 환경 설정
 cmd + ; | 프로젝트 환경 설정
+shift + shift | 전체 검색(file, action 모두 검색)
+cmd + shift + a | action 검색(설정, Refactor 등)
+cmd + shift + o | 파일 찾기
+cmd + e | 최근 열었던 파일 리스트 보기
+
 
 * 참고 링크
   * https://blog.vjvj.net/2016/06/intellij.html
